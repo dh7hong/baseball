@@ -1,7 +1,7 @@
 # baseball
-## baseball game generates 3 digit random number (no repeating digits).
+### 1. baseball game generates 3 digit random number (no repeating digits).
 
-### Then the user has to guess the three 3 digit number.
+### 2. Then the user has to guess the three 3 digit number.
 
 If the guessed digit is in the same order as the one in the generated number, output:
 
