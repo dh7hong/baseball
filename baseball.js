@@ -53,4 +53,4 @@ function matcher(generatedNumber, trials) {
 
 }
 
-matcher(uniqueThreeDigitNumber, trials = 1)
+matcher(uniqueThreeDigitNumber, trials = 0)
